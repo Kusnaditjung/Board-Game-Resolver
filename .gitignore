@@ -3,3 +3,6 @@
 ################################################################################
 
 /BoardGameResolver/bin/Debug
+/BoardGameResolver/obj/Debug
+/BoardGameResolver/.vs/BoardGameResolver/v15
+/.vs
