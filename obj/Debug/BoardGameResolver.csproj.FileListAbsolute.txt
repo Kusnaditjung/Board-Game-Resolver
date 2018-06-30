@@ -1,0 +1,10 @@
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\bin\Debug\BoardGameResolver.exe.config
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\bin\Debug\BoardGameResolver.exe
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\bin\Debug\BoardGameResolver.pdb
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.csprojResolveAssemblyReference.cache
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.Main.resources
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.Properties.Resources.resources
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.csproj.GenerateResource.cache
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.csproj.CoreCompileInputs.cache
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.exe
+C:\Users\kusnadi kusnadi\OneDrive\MyProjects\BoardGameResolver\BoardGameResolver\obj\Debug\BoardGameResolver.pdb
