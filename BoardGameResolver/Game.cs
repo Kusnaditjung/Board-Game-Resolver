@@ -8,8 +8,7 @@ namespace BoardGameResolver
 {
     internal class Game
     {
-        private const int boardSize = 5;        
-        private object _syncLock = new object();
+        private const int boardSize = 5;                
         public ConcurrentDictionary<int, List<List<string>>> Solutions { get; private set; }
         public bool[,] InitialBoard { get; private set; }
         public Game(bool[,] board)
